@@ -4,11 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#FF0000",
-        "fillOpacity": 0.5,
-        "strokeColor": "#000000",
-        "strokeWidth": 2,
-        "strokeOpacity": 1
+        "BlockNo": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -33,6 +29,39 @@
             [
               133.1040429,
               -14.9934901
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BlockNo": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              133.1034593,
+              -14.9931487
+            ],
+            [
+              133.1014972,
+              -14.9978093
+            ],
+            [
+              133.1008141,
+              -14.997572
+            ],
+            [
+              133.1028204,
+              -14.9928337
+            ],
+            [
+              133.1034593,
+              -14.9931487
             ]
           ]
         ]
