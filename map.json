@@ -4,7 +4,12 @@
     {
       "type": "Feature",
       "properties": {
-        "BlockNo": 1
+        "BlockNo": 1,
+        "fillColor": "#FF0000",
+        "fillOpacity": 0.5,
+        "strokeColor": "#000000",
+        "strokeWidth": 2,
+        "strokeOpacity": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -37,7 +42,12 @@
     {
       "type": "Feature",
       "properties": {
-        "BlockNo": 2
+        "BlockNo": 2,
+        "fillColor": "#FF0000",
+        "fillOpacity": 0.5,
+        "strokeColor": "#000000",
+        "strokeWidth": 2,
+        "strokeOpacity": 1
       },
       "geometry": {
         "type": "Polygon",
