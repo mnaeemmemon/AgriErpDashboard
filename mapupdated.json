@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "label": 1,
+        "label": "hi",
         "name": "mt",
         "fillColor": "#00b300",
         "fillOpacity": 0.5,
@@ -14,7 +14,6 @@
       },
       "geometry": {
         "type": "Polygon",
-        "name": "hi",
         "coordinates": [
           [
             [
