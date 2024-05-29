@@ -4,7 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "BlockNo": 1,
+        "label": 1,
+        "name": "mt",
         "fillColor": "#00b300",
         "fillOpacity": 0.5,
         "strokeColor": "#ffffff",
