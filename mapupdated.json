@@ -4,8 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "label": "hi",
-        "name": "mt",
         "fillColor": "#00b300",
         "fillOpacity": 0.5,
         "strokeColor": "#ffffff",
