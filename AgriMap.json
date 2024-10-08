@@ -319,7 +319,7 @@
         "strokeWidth": 1,
         "strokeOpacity": 1.0,
         "text": {
-          "content": "30697",
+          "value": "30697",
           "color": "#000000"
         }
       },
@@ -349,7 +349,7 @@
         "strokeWidth": 1,
         "strokeOpacity": 1.0,
         "text": {
-          "content": "30698",
+          "value": "30698",
           "color": "#000000"
         }
       },
@@ -384,7 +384,7 @@
         "strokeWidth": 1,
         "strokeOpacity": 1.0,
         "text": {
-          "content": "30699",
+          "value": "30699",
           "color": "#000000"
         }
       },
@@ -412,7 +412,7 @@
         "strokeWidth": 1,
         "strokeOpacity": 1.0,
         "text": {
-          "content": "30706",
+          "value": "30706",
           "color": "#000000"
         }
       },
@@ -440,7 +440,7 @@
         "strokeWidth": 1,
         "strokeOpacity": 1.0,
         "text": {
-          "content": "30708",
+          "value": "30708",
           "color": "#000000"
         }
       },
@@ -468,7 +468,7 @@
         "strokeWidth": 1,
         "strokeOpacity": 1.0,
         "text": {
-          "content": "30712",
+          "value": "30712",
           "color": "#000000"
         }
       },
@@ -499,7 +499,7 @@
         "strokeWidth": 1,
         "strokeOpacity": 1.0,
         "text": {
-          "content": "30714",
+          "value": "30714",
           "color": "#000000"
         }
       },
@@ -527,7 +527,7 @@
         "strokeWidth": 1,
         "strokeOpacity": 1.0,
         "text": {
-          "content": "30715",
+          "value": "30715",
           "color": "#000000"
         }
       },
@@ -556,7 +556,7 @@
         "strokeWidth": 1,
         "strokeOpacity": 1.0,
         "text": {
-          "content": "30716",
+          "value": "30716",
           "color": "#000000"
         }
       },
@@ -666,7 +666,7 @@
     {
       "id": "polygon-layer",
       "type": "fill",
-      "source": "polygons", // The source of your polygons
+      "source": "polygons",
       "layout": {},
       "paint": {
         "fill-color": ['get', 'fillColor'],
@@ -678,12 +678,12 @@
       "type": "symbol",
       "source": "polygons",
       "layout": {
-        "text-field": ['get', 'PlotName'], // Field to display
+        "text-field": ['get', 'PlotName'], 
         "text-size": 14,
         "text-anchor": "top"
       },
       "paint": {
-        "text-color": "#000000" // Label color
+        "text-color": "#000000" 
       }
     }
   ]
