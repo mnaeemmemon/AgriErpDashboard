@@ -661,30 +661,5 @@
         ]
       }
     }
-  ],
-  "layers": [
-    {
-      "id": "polygon-layer",
-      "type": "fill",
-      "source": "polygons",
-      "layout": {},
-      "paint": {
-        "fill-color": ['get', 'fillColor'],
-        "fill-opacity": ['get', 'fillOpacity']
-      }
-    },
-    {
-      "id": "symbol-layer",
-      "type": "symbol",
-      "source": "polygons",
-      "layout": {
-        "text-field": ['get', 'PlotName'], 
-        "text-size": 14,
-        "text-anchor": "top"
-      },
-      "paint": {
-        "text-color": "#000000" 
-      }
-    }
   ]
 }
