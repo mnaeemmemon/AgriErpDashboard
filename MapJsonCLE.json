@@ -1,0 +1,438 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "PlotID": 30680,
+        "PlotName": "Farm 2000-Cherries-2000.2",
+        "PlotCode": "2000.2",
+        "fillColor": "#3CA371",
+        "fillOpacity": 0.5,
+        "strokeColor": "#ffffff",
+        "strokeWidth": 1,
+        "strokeOpacity": 1.0,
+        "text": {
+          "value": "30680",
+          "color": "#000000"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-119.1987405, 46.53332052],
+            [-119.1953606, 46.53332052],
+            [-119.1953606, 46.53079789],
+            [-119.1987405, 46.53079789]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PlotID": 30681,
+        "PlotName": "Farm 2000-Cherries-2000.1",
+        "PlotCode": "2000.1",
+        "fillColor": "#F0C75E",
+        "fillOpacity": 0.5,
+        "strokeColor": "#ffffff",
+        "strokeWidth": 1,
+        "strokeOpacity": 1.0,
+        "text": {
+          "value": "30681",
+          "color": "#000000"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-119.1988067, 46.53073441],
+            [-119.2019751, 46.53073441],
+            [-119.2019751, 46.53281727],
+            [-119.1988067, 46.53281727]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PlotID": 30682,
+        "PlotName": "Farm 2000-Cherries-2000.3",
+        "PlotCode": "2000.3",
+        "fillColor": "#D94E4E",
+        "fillOpacity": 0.5,
+        "strokeColor": "#ffffff",
+        "strokeWidth": 1,
+        "strokeOpacity": 1.0,
+        "text": {
+          "value": "30682",
+          "color": "#000000"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-119.2023361, 46.52902084],
+            [-119.1989212, 46.52902084],
+            [-119.1989212, 46.53066782],
+            [-119.2023361, 46.53066782]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PlotID": 30683,
+        "PlotName": "Farm 2000-Cherries-2000.4",
+        "PlotCode": "2000.4",
+        "fillColor": "#F4B05A",
+        "fillOpacity": 0.5,
+        "strokeColor": "#ffffff",
+        "strokeWidth": 1,
+        "strokeOpacity": 1.0,
+        "text": {
+          "value": "30683",
+          "color": "#000000"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-119.1987395, 46.52894161],
+            [-119.1953579, 46.52894161],
+            [-119.1953579, 46.53078676],
+            [-119.1987395, 46.53078676]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PlotID": 30684,
+        "PlotName": "Farm 2000-Cherries-2000.5",
+        "PlotCode": "2000.5",
+        "fillColor": "#B3987F",
+        "fillOpacity": 0.5,
+        "strokeColor": "#ffffff",
+        "strokeWidth": 1,
+        "strokeOpacity": 1.0,
+        "text": {
+          "value": "30684",
+          "color": "#000000"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-119.1989015, 46.52694211],
+            [-119.2024065, 46.52694211],
+            [-119.2024065, 46.52895768],
+            [-119.1989015, 46.52895768]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PlotID": 30685,
+        "PlotName": "Farm 2000-Cherries-2000.6",
+        "PlotCode": "2000.6",
+        "fillColor": "#3CA371",
+        "fillOpacity": 0.5,
+        "strokeColor": "#ffffff",
+        "strokeWidth": 1,
+        "strokeOpacity": 1.0,
+        "text": {
+          "value": "30685",
+          "color": "#000000"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-119.1961288, 46.52694211],
+            [-119.198823, 46.52694211],
+            [-119.198823, 46.5288857],
+            [-119.1961288, 46.5288857]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PlotID": 30686,
+        "PlotName": "Farm 2000-Cherries-2000.7",
+        "PlotCode": "2000.7",
+        "fillColor": "#F0C75E",
+        "fillOpacity": 0.5,
+        "strokeColor": "#ffffff",
+        "strokeWidth": 1,
+        "strokeOpacity": 1.0,
+        "text": {
+          "value": "30686",
+          "color": "#000000"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-119.1988298, 46.52482729],
+            [-119.2025703, 46.52482729],
+            [-119.2025703, 46.52695092],
+            [-119.1988298, 46.52695092]
+          ]
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "PlotID": 30688,
+        "PlotName": "IDAF Farm 1000 1000.1",
+        "PlotCode": "1000.1",
+        "fillColor": "#D94E4E",
+        "fillOpacity": 0.5,
+        "strokeColor": "#ffffff",
+        "strokeWidth": 1,
+        "strokeOpacity": 1.0,
+        "text": {
+          "value": "30688",
+          "color": "#000000"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-112.9910196, 42.80585992],
+            [-112.9837883, 42.80581269],
+            [-112.9836918, 42.80567888],
+            [-112.9837561, 42.8022941],
+            [-112.988273, 42.8022941],
+            [-112.9885734, 42.80234921],
+            [-112.9890025, 42.80231772],
+            [-112.9910196, 42.80230985]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PlotID": 30689,
+        "PlotName": "IDAF Farm 1000 1000.2",
+        "PlotCode": "1000.2",
+        "fillColor": "#F4B05A",
+        "fillOpacity": 0.5,
+        "strokeColor": "#ffffff",
+        "strokeWidth": 1,
+        "strokeOpacity": 1.0,
+        "text": {
+          "value": "30689",
+          "color": "#000000"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-112.9910447, 42.8022438],
+            [-112.9837061, 42.80214934],
+            [-112.9837705, 42.79866991],
+            [-112.9910661, 42.79873289]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PlotID": 30695,
+        "PlotName": "IDAF Farm 1000 1000.7",
+        "PlotCode": "1000.7",
+        "fillColor": "#B3987F",
+        "fillOpacity": 0.5,
+        "strokeColor": "#ffffff",
+        "strokeWidth": 1,
+        "strokeOpacity": 1.0,
+        "text": {
+          "value": "30695",
+          "color": "#000000"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-112.9785875, 42.79498089],
+            [-112.9639533, 42.79491791],
+            [-112.9639533, 42.79139084],
+            [-112.9785016, 42.79145382]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PlotID": 30697,
+        "PlotName": "IDAF Farm 1000 1000.6",
+        "PlotCode": "1000.6",
+        "fillColor": "#3CA371",
+        "fillOpacity": 0.5,
+        "strokeColor": "#ffffff",
+        "strokeWidth": 1,
+        "strokeOpacity": 1.0,
+        "text": {
+          "value": "30697",
+          "color": "#000000"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-112.9835338, 42.79501824],
+            [-112.9787488, 42.79502611],
+            [-112.9787273, 42.79153053],
+            [-112.9820318, 42.79151479],
+            [-112.9820533, 42.79313663],
+            [-112.9835124, 42.79312876]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PlotID": 30698,
+        "PlotName": "IDAF Farm 1000 1000.5",
+        "PlotCode": "1000.5",
+        "fillColor": "#F0C75E",
+        "fillOpacity": 0.5,
+        "strokeColor": "#ffffff",
+        "strokeWidth": 1,
+        "strokeOpacity": 1.0,
+        "text": {
+          "value": "30698",
+          "color": "#000000"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-112.9834955, 42.80582794],
+            [-112.9740725, 42.80585458],
+            [-112.9737989, 42.8057798],
+            [-112.9737775, 42.80569715],
+            [-112.9738114, 42.80252393],
+            [-112.9739508, 42.80235076],
+            [-112.9743263, 42.80235863],
+            [-112.9833708, 42.80235863],
+            [-112.9835961, 42.80243735],
+            [-112.9835424, 42.80310644],
+            [-112.9834888, 42.80554661]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PlotID": 30699,
+        "PlotName": "IDAF Farm 1000 1000.4",
+        "PlotCode": "1000.4",
+        "fillColor": "#D94E4E",
+        "fillOpacity": 0.5,
+        "strokeColor": "#ffffff",
+        "strokeWidth": 1,
+        "strokeOpacity": 1.0,
+        "text": {
+          "value": "30699",
+          "color": "#000000"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-113.003036, 42.80584277],
+            [-112.9910841, 42.80585852],
+            [-112.9911699, 42.80230058],
+            [-113.0031647, 42.80236355]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PlotID": 30706,
+        "PlotName": "IDAF Farm 1000 1000.8",
+        "PlotCode": "1000.8",
+        "fillColor": "#F4B05A",
+        "fillOpacity": 0.5,
+        "strokeColor": "#ffffff",
+        "strokeWidth": 1,
+        "strokeOpacity": 1.0,
+        "text": {
+          "value": "30706",
+          "color": "#000000"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-112.9786422, 42.80230937],
+            [-112.9639866, 42.80223065],
+            [-112.9640295, 42.79876697],
+            [-112.9786422, 42.79871974]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PlotID": 30708,
+        "PlotName": "IDAF Farm 1000 1000.3",
+        "PlotCode": "1000.3",
+        "fillColor": "#B3987F",
+        "fillOpacity": 0.5,
+        "strokeColor": "#ffffff",
+        "strokeWidth": 1,
+        "strokeOpacity": 1.0,
+        "text": {
+          "value": "30708",
+          "color": "#000000"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-112.983557, 42.7985949],
+            [-112.9786217, 42.79856341],
+            [-112.9786861, 42.79509952],
+            [-112.9835355, 42.7951625]
+          ]
+        ]
+      }
+    }
+  ]
+}
